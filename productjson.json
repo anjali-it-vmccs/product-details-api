@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "Detergent Coco Wash",
     "benefits": [
       "No Chemicals, Preservatives, or Artificial Fragrances.",
@@ -20,6 +21,7 @@
     "category": ["homecare"]
   },
   {
+    "id": "2",
     "name": "Face Wash",
     "benefits": [
       "It keeps brightness skin.",
@@ -41,6 +43,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "3",
     "name": "Hand Sanitizer",
     "benefits": [
       "Make Germs Free Hand.",
@@ -59,6 +62,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "4",
     "name": "Body Wash",
     "benefits": [
       "Protection from Germs.",
@@ -81,6 +85,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "5",
     "name": "Facial Serum",
     "benefits": [
       "It keeps brightness skin.",
@@ -105,6 +110,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "6",
     "name": "Shampoo",
     "benefits": [
       "Make hair Shiny & Silky.",
@@ -130,6 +136,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "7",
     "name": "Roll On",
     "benefits": [
       "Fast Pain Relief",
@@ -147,6 +154,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "8",
     "name": "Toilet Cleaner",
     "benefits": [
       "Removes 99.9% germs",
@@ -166,6 +174,7 @@
     "category": ["homecare"]
   },
   {
+    "id": "9",
     "name": "Coco Soap",
     "benefits": [
       "Healthy Skin",
@@ -184,6 +193,7 @@
     "category": ["healthcare"]
   },
   {
+    "id": "10",
     "name": "Charcoal Soap",
     "benefits": [
       "Healthy Skin",
